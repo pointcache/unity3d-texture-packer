@@ -1,5 +1,5 @@
 ﻿/* copyright pointcache (antonov.3d@gmail.com) 2016, subject to standard MIT license, 
- * do whatever except reselling, and always keep this notice */
+ * do whatever  and always keep this notice */
 
 using UnityEngine;
 using UnityEditor;
